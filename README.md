@@ -8,7 +8,7 @@ Shh, do not let your boss know ——
 keep our secret and carry on!
 
 
->- content: to be used for machine learning/HMM
+- content: to be used for machine learning/HMM
 - generate_text: a stupid version of content submit
 - init.bat: silent execution
 - logs: log it is

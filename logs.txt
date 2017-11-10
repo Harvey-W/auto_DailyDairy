@@ -1,0 +1,169 @@
+
+++++++++++++++++++++++++++  THIS IS THE LOGS  +++++++++++++++++++++++
+
+2017-11-08 23:57:02
+	options finished
+	login finished
+	write finished
+
+2017-11-09 00:14:52
+	options finished
+	login finished
+	write finished
+
+2017-11-09 00:26:16
+	options finished
+	login finished
+	write finished
+
+2017-11-09 00:35:04	Error
+
+2017-11-09 00:35:24	Error
+
+2017-11-09 00:35:40	Error
+
+2017-11-09 00:36:09	Error
+
+2017-11-09 00:37:05	Error
+
+2017-11-09 00:40:00
+	options finished
+	login finished
+	write finished
+
+2017-11-09 00:45:00
+	options finished
+	login finished
+	write finished
+
+2017-11-09 01:05:41	Error
+
+2017-11-09 01:06:14
+
+2017-11-09 01:09:19	Error
+
+2017-11-09 01:09:45	Error
+
+2017-11-09 01:10:07
+	options finished
+	login finished
+	write finished
+
+2017-11-09 01:12:49	Error
+
+2017-11-09 01:13:05	Error
+
+2017-11-09 01:17:26	Error
+
+2017-11-09 01:21:46
+
+2017-11-09 01:22:17
+	options finished
+	login finished	Error
+
+2017-11-09 01:24:30
+	options finished
+	login finished	Error
+
+2017-11-09 01:28:34
+	options finished
+	login finished	Error
+
+2017-11-09 01:30:05
+	options finished
+	login finished
+	write finished
+
+2017-11-09 01:31:52
+	options finished
+	login finished
+	write finished
+
+2017-11-09 01:33:57
+	options finished
+	login finished	Error
+
+2017-11-09 01:36:57
+	options finished
+	login finished	Error
+
+2017-11-09 01:38:45
+	options finished
+	login finished	Error
+
+2017-11-09 01:41:12
+	options finished
+	login finished	Error
+
+2017-11-09 01:45:55
+	options finished
+	login finished
+	write finished
+
+2017-11-09 01:50:31
+	options finished
+	login finished
+	write finished
+
+2017-11-09 01:54:06
+	options finished
+	login finished
+	write finished
+
+2017-11-09 01:55:53
+	options finished
+	login finished
+	write finished
+
+2017-11-09 01:57:49
+	options finished
+	login finished
+	write finished
+
+2017-11-09 02:01:59	Error
+
+2017-11-09 02:02:09
+	options finished
+	login finished
+	write finished
+
++++++++++++++++++++++++++++++++++ v1.0 alpha 
+
+2017-11-09 18:25:00
+	options finished
+	login finished
+	write finished
+
+2017-11-09 18:31:00
+	options finished
+	login finished
+	write finished
+
+2017-11-10 16:44:57
+
+2017-11-10 16:45:01
+	options finished
+	login finished
+	write finished
+
+2017-11-10 16:47:04
+	options finished
+	login finished
+	write finished
+
+2017-11-10 16:49:55
+	options finished
+	login finished
+	write finished
+
+2017-11-10 16:50:08
+	options finished
+	login finished
+	write finished
+
+2017-11-10 16:51:06
+	options finished
+	login finished
+	write finished
+
++++++++++++++++++++++++++++++++++ v1.0 beta

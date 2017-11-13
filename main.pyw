@@ -29,7 +29,7 @@ def set_options():
     options.add_argument('--disable-gpu')
     
     browser = webdriver.Chrome(chrome_options=options)
-    browser.implicitly_wait(30) #非常关键，后台加载极有可能渲染失败
+    browser.implicitly_wait(30)
     browser.maximize_window()
     browser.get('https://www.fxiaoke.com/XV/Home/Index#stream')
 
@@ -37,15 +37,15 @@ def set_options():
 
 def login(browser):
     browser.find_element_by_xpath('//div[@class="fx-tabs login-tabs"]/div[2]').click()
-    browser.find_element_by_xpath('//input[@class="fx-ipt j-ipt-phone-num ipt-phone-num"]').send_keys("18911669199")
-    browser.find_element_by_xpath('//input[@class="fx-ipt j-ipt-password ipt-password"]').send_keys("123456whw")
+    browser.find_element_by_xpath('//input[@class="fx-ipt j-ipt-phone-num ipt-phone-num"]').send_keys("***********")
+    browser.find_element_by_xpath('//input[@class="fx-ipt j-ipt-password ipt-password"]').send_keys("*********")
     browser.find_element_by_xpath('//div[@class="fx-form-control j-btn-login btn-login"]/div').click()
 
 
 def write(browser):
     browser.find_element_by_xpath('//li[@class="fs-publish-nav j-tab-plan ui-tab-item ui-switchable-trigger"]/a').click()
     browser.find_element_by_xpath('//textarea[@data-autolistid="fs-publish-2"]').send_keys(gt.today())
-    #browser.find_element_by_css_selector("textarea").send_keys("数据分析，测试新的功能")
+    #browser.find_element_by_css_selector("textarea").send_keys("text") #anothe way
     browser.find_element_by_xpath('//textarea[@data-autolistid="fs-publish-3"]').send_keys(gt.tmr())
     browser.find_element_by_xpath('//*[@id="w_page_container"]/div[2]/div[1]/div/div[2]/div[2]/div/form/div[1]/div[1]/div[1]/fieldset[3]/textarea').send_keys(gt.exp())
     browser.find_element_by_xpath('//*[@id="w_page_container"]/div[2]/div[1]/div/div[2]/div[2]/div/form/div[5]/div[3]/button').submit()

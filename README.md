@@ -1,5 +1,4 @@
 # auto_DailyDairy
-debug -v1.1 beta
 
 To make life easier, to free your hand, and to use your mind efficiently.
 Thus, I created this script.
@@ -14,8 +13,8 @@ keep our secret and carry on!
 - logs: log it is
 - main: :)
 
-#纷享销客（Web端）自动写日志
-++++++++++++++++++++
+# 纷享销客（Web端）自动写日志
+
 1. 利用selenium模拟登录填写和发送
 2. 无窗口运行，定时唤起，后台日志
 3. 伪随机生成日志内容

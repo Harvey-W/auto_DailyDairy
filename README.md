@@ -14,6 +14,7 @@ keep our secret and carry on!
 - main: :)
 
 # 纷享销客（Web端）自动写日志
+> ★在线人工智障，性感写日志★（同事用了都说好）
 
 1. 利用selenium模拟登录填写和发送
 2. 无窗口运行，定时唤起，后台日志

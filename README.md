@@ -13,3 +13,11 @@ keep our secret and carry on!
 - init.bat: silent execution
 - logs: log it is
 - main: :)
+
+#纷享销客（Web端）自动写日志
+++++++++++++++++++++
+1. 利用selenium模拟登录填写和发送
+2. 无窗口运行，定时唤起，后台日志
+3. 伪随机生成日志内容
+4. (TODO)机器学习/监督学习/隐马尔可夫模型-日志内容
+（年轻时耍的酷）
